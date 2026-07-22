@@ -1,0 +1,3 @@
+FAISS (Facebook AI Similarity Search) is an open-source library developed by Meta for efficient similarity search and clustering of dense vectors.
+When using vector databases, documents are converted into embedding vectors using sentence transformer models.
+Chunking is necessary because models have context length limits, and smaller text units yield better retrieval precision.
