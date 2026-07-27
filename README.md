@@ -1,2 +1,0 @@
-# CNN
-Projects using CNN
